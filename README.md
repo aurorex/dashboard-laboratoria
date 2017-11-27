@@ -25,4 +25,7 @@
 
 ###  en el dashboard tambien se tiene otras herramientas que puede utilizar el usuario como : perfil,notificaciones,mensajes,calendario,administracion de sus datos entre otros
 
-###
+![sing-in](assets/img/sing-in.jpg)
+![lima](assets/img/lima.jpg)
+![mañana](assets/img/mañana.jpg)
+![alumna](assets/img/alumna.jpg)
